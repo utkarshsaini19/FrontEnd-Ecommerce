@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Live URL :- https://hocalwireecommerce-utkarshsaini19s-projects.vercel.app/
+
+Feature Implemented :-
+1. Created Using Create React App
+2. Used tailwind CSS from Scratch so that I can focus on App functionalty more
+3. Made the app responsive according to browser size.
+4. Created Custom Hooks so that our Components is more Readable
+5. Implement lazy loading / Code splitting for better UI Loading and performance
+6. Used Context for global state management since the requirement was not very big.But can implement Redux as well using Redux Tool Kit.
+7. Created utils folder to hold utility function and variable as this will be used more often in our App. 
+
 ## Available Scripts
 
 In the project directory, you can run:
